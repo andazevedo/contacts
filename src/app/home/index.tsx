@@ -150,7 +150,7 @@ export function Home() {
                 </Text>
               </View>
             )}
-            <Button title="Close" onPress={handleBottomSheetClose} />
+            <Button title="Close." onPress={handleBottomSheetClose} />
           </View>
         </BottomSheet>
       )}
